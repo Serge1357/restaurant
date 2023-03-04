@@ -1,1 +1,1 @@
-web: gunicorn mysite.vcgi --log-file -
+web: gunicorn mysite.vsgi --log-file -
